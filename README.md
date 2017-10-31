@@ -24,3 +24,8 @@ https://stackoverflow.com (various threads)
 
 Hours spent:
 Approximately 29 hours (already including the examination)
+
+------------------
+HOW TO RUN?
+
+1. Open index.html in the browser
