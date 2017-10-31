@@ -18,9 +18,9 @@ What i learned from React is more than the language itself. I fell in love with 
 ------------------
 
 Sources i used:
-https://www.codecademy.com/learn/react-101
-https://scotch.io/tutorials/create-a-simple-to-do-app-with-react
-https://stackoverflow.com (various threads)
+* https://www.codecademy.com/learn/react-101
+* https://scotch.io/tutorials/create-a-simple-to-do-app-with-react
+* https://stackoverflow.com (various threads)
 
 Hours spent:
 Approximately 29 hours (already including the examination)
