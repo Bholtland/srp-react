@@ -67,7 +67,7 @@ Our functional component would look like this:
 ```javascript
 function Todo(props){
   const todo = props.todo;
-	const remove = props.remove;
+  const remove = props.remove;
   return <li style={itemStyle} onClick={() => remove(todo.id)}>{todo.text}</li>
 }
 ```
