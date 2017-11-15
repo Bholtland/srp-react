@@ -15,7 +15,11 @@ INSPIRATION
 ------------------
 What i learned from React is more than the language itself. I fell in love with the way of thinking. I started looking into other ways of writing modular code, like vanilla Javascript components, AngularJS and VUEJs. Of course not every project has to be modular. A simple portfolio website works great in standard HTML & CSS, but because i want to work on apps more often, this is a new world for me with infinite possibilities.
 
+WHAT IS REACT EXACTLY
 ------------------
+
+...
+<div></div>
 
 Sources i used:
 * https://www.codecademy.com/learn/react-101
