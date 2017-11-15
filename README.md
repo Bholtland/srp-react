@@ -68,7 +68,7 @@ Our functional component would look like this:
 function Todo(props){
   const todo = props.todo;
   const remove = props.remove;
-  return <li style={itemStyle} onClick={() => remove(todo.id)}>{todo.text}</li>
+  return (<li style={itemStyle} onClick={() => remove(todo.id)}>{todo.text}</li>)
 }
 ```
 You may have noticed a method called Render(). This method will render the component when being called. It may return other components (we'll get to that) and/or "JSX". JSX allows you to write "HTML-looking" code inside your components. This way when being called, HTML is being generated the way you have written it. Our block of code "<li style={itemStyle} onClick={() => remove(todo.id)}>{todo.text}</li>" will return in the DOM with all of it's bound functions. 
