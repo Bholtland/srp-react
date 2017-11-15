@@ -17,9 +17,11 @@ What i learned from React is more than the language itself. I fell in love with 
 
 WHAT IS REACT EXACTLY
 ------------------
+React is both a frontend and backend library. It allows you to build performant web apps that are very scalable. React's filosophy is built around using Javascript components, rather than entire HTML documents per page. This is especially handy for both reusability and performance. React makes use of the shadow DOM tree, an actual, unrendered DOM tree that passes changes only to the DOM tree instead of rerendering the entire structure. 
 
-...
-<div></div>
+```javascript
+var reactComponent
+```
 
 Sources i used:
 * https://www.codecademy.com/learn/react-101
